@@ -1,0 +1,16 @@
+PODS:
+  - DribbbleTextField (0.1.0)
+
+DEPENDENCIES:
+  - DribbbleTextField (from `../`)
+
+EXTERNAL SOURCES:
+  DribbbleTextField:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DribbbleTextField: 0806b552acd4e236126b17955c1a8dfdfe45425f
+
+PODFILE CHECKSUM: a90a2688ff7e58dfc85147dd2cb0dc3fcebb79bf
+
+COCOAPODS: 1.8.4

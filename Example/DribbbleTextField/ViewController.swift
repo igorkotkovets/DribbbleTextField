@@ -20,5 +20,9 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func hideButtonAction(_ sender: UIButton) {
+        view.endEditing(true)
+    }
+
 }
 
