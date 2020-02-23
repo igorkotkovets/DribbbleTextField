@@ -1,9 +1,8 @@
 # DribbbleTextField
 
-[![CI Status](https://img.shields.io/travis/Igor Kotkovets/DribbbleTextField.svg?style=flat)](https://travis-ci.org/Igor Kotkovets/DribbbleTextField)
-[![Version](https://img.shields.io/cocoapods/v/DribbbleTextField.svg?style=flat)](https://cocoapods.org/pods/DribbbleTextField)
-[![License](https://img.shields.io/cocoapods/l/DribbbleTextField.svg?style=flat)](https://cocoapods.org/pods/DribbbleTextField)
-[![Platform](https://img.shields.io/cocoapods/p/DribbbleTextField.svg?style=flat)](https://cocoapods.org/pods/DribbbleTextField)
+![GitHub Logo](shortoutput.gif)
+
+Inspired by https://dribbble.com/shots/9986490--UI-Elements?utm_source=Clipboard_Shot&utm_campaign=Kevinduk&utm_content=%F0%9F%92%8E%20UI%20Elements&utm_medium=Social_Share
 
 ## Example
 
