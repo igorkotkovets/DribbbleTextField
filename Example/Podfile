@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DribbbleTextField_Example' do
+  pod 'DribbbleTextField', :path => '../'
+
+  target 'DribbbleTextField_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
